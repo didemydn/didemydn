@@ -18,13 +18,13 @@ I'm focused on developing modern web applications with a keen interest in cloud 
 
 ## 📂 Featured Projects
 
-### 🥒 [FormuFit](https://github.com/yourusername/FormuFit)
+### 🥒 [FormuFit](https://formufit.netlify.app/) 
 An advanced diet planner app designed to help users take control of their health and fitness journey. Built with a mobile-first approach and real-time backend integration.
 
-### 💼 [Usespace Website Redesign](https://github.com/yourusername/usespace)
+### 💼 [Usespace Website Redesign](https://github.com/didemydn/usespace) 
 Contributed to the full-stack rebranding and redesign of a coworking platform. Integrated secure login flows and built reusable front-end components from Figma designs.
 
-### 🛍️ [Smart Shopping List (The Collab Lab)](https://github.com/yourusername/collab-lab)
+### 🛍️ [Smart Shopping List (The Collab Lab)](https://github.com/the-collab-lab/tcl-78-smart-shopping-list) 
 Collaborated in an agile team to build a real-time collaborative shopping list. Integrated Firebase for seamless UX and reduced app crashes by 40%.
 
 ---
